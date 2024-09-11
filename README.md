@@ -32,12 +32,5 @@ The logistic regression model achieved an accuracy of 75%. However, the performa
 
 ## Outline of Project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+https://github.com/gireeshbabum/subscription-churn-prediction.git
 
----
-
-##### Contact and Further Information
-
-For questions or further information, feel free to reach out at : .
