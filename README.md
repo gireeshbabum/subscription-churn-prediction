@@ -25,10 +25,11 @@ The dataset used in this project contains 24 features, including customer subscr
 ## Results
 The logistic regression model achieved an accuracy of 75%. However, the performance for classifying churners (class 0) was initially poor, leading to adjustments like oversampling and threshold tuning to improve class balance.
 
-## Next Steps
-1. Further improve model performance by experimenting with advanced techniques like SMOTE for handling imbalanced classes.
-2. Implement the best-performing model in a real-time environment to monitor customer behavior and trigger interventions.
-3. Continue collecting more data to retrain and refine the model.
+## Key Findings
+1. Certain features, such as app usage frequency and payment history, were strong indicators of whether a customer would churn.
+2. Imbalanced data posed challenges, but oversampling methods helped improve model performance, especially for identifying potential churners.
+3. Implement the best-performing model in a real-time environment to monitor customer behavior and trigger interventions.
+4. Continue collecting more data to retrain and refine the model.
 
 ## Outline of Project
 
